@@ -1,4 +1,6 @@
-# Design files, materials list for edge-lit pendant workshops. Pendants based on [this GeekMomProjects build](https://www.geekmomprojects.com/layered-edge-lit-pendants/)
+# Edge Lit Pendant Workshop
+Design files, materials list for edge-lit pendant workshops
+Pendants based on [this GeekMomProjects build](https://www.geekmomprojects.com/layered-edge-lit-pendants/)
 
 ## Materials needed (for 24 pendants):
 
