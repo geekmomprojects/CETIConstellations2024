@@ -15,6 +15,7 @@ Pendants based on [this GeekMomProjects build](https://www.geekmomprojects.com/l
 
 - Laser cutter to cut sheet materials according to the design files
 - Small Phillips head (if screws are Phillps type) screwdrivers
+- Narrow tipped pliers to precicely bend LED legs
 - Flush cutters to cut LED legs
 - Scissors to cut the necklace cord
 
