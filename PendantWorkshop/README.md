@@ -1,5 +1,5 @@
 # Edge Lit Pendant Workshop
-Design files, materials list for edge-lit pendant workshops
+[Design files](./design), materials list for edge-lit pendant workshops
 Pendants based on [this GeekMomProjects build](https://www.geekmomprojects.com/layered-edge-lit-pendants/)
 
 <img src="images/PendantRed.jpg" width="128">   <img src="images/PendantGreen.jpg" width="128">
