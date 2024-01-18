@@ -2,6 +2,8 @@
 Design files, materials list for edge-lit pendant workshops
 Pendants based on [this GeekMomProjects build](https://www.geekmomprojects.com/layered-edge-lit-pendants/)
 
+<img src="images/PendantRed.jpg" width="128">   <img src="images/PendantGreen.jpg" width="128">
+
 ## Materials needed (for 24 pendants):
 
 - 1/8" thick sheet [Rowmark Colorhues Cast Acrylic in **PHANTOM** color](https://www.jpplus.com/rowmark-colorhues-cast-acrylic?sku=CH341211-QTR) (11" x 8" or larger) for translucent layer
