@@ -9,6 +9,7 @@ Pendants based on [this GeekMomProjects build](https://www.geekmomprojects.com/l
 - (72) 14mm M2 screws (like [these](https://www.amazon.com/uxcell-M2x14mm-Phillips-Stainless-Fasteners/dp/B07LGXMT8K/) and nuts (like [these](https://www.amazon.com/binifiMux-100pcs-Stainless-Nylock-Locking/dp/B07L2W3QX3)) (3 each per pendant)
 - (24) 2mmx3mmx4mm slow flash color changing rectangular LEDs (e.g. [these](https://www.aliexpress.us/item/2251832823874296.html)
 - Cord (any kind, e.g. [this](https://www.amazon.com/Leather-String-Bracelets-Necklaces-Jewelry/dp/B0BGP4KW57) to fasten pendant around neck (about 1 yard per person)
+- (24) CR2032 Coin cell batteries (e.g. [these] (https://www.amazon.com/50-pcs-Pack-Lithium-Nightkonic/dp/B078GC5K81/)) **These batteries are small and very harmful if swallowed. Keep them away from small children or animals.**
 
 ## Tools needed:
 
