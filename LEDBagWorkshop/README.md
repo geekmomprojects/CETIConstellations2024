@@ -1,4 +1,23 @@
-IN PROGRESS...
+<img src="images/bag.jpg" width="256">
+
+## Materials
+Each participant will use the following materials to create their own illuminated backpack (or other item):
+-Circuit Playground
+
+## Resources
+- More information about the Circuit Playground Express (CPX) controller used in this project can be found [here](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) 
+- The latest version of CircuitPython as of 2/3/24 has been installed on your Circuit Playground Express controllers, but you can find the very latest version and additional libraries at [https://circuitpython.org/](https://circuitpython.org/)
+
+## Assembly
+Assembly Step 1
+
+## Programming
+
+#### Programming Step 1
+Download and install the Mu code editor [here](https://codewith.mu/)
+#### Programming Step 2
+Attach the CPX controller to your computer with a micro:USB cable
+ 
 
 ## Materials needed for 20 bags
 
