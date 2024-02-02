@@ -46,8 +46,11 @@ Cut a length of drawstring cord a bit longer than your LED string, and slide it 
 ### Step 1
 Download and install the Mu code editor [here](https://codewith.mu/) onto your laptop
 
-#### Programming Step 2
-<img src="images/drive.jpg" width="256">
+### Step 2
+<img src="images/drive.png" width="256">
 
-Attach the CPX controller to your computer with a micro:USB cable. It will show up as an external drive on your computer, usually named **CIRCUITPY**
+Attach the CPX controller to your computer with a micro:USB cable. It will show up as an external drive on your computer, usually named **CIRCUITPY** You can drag and drop files to this drive.
+
+### Step 3
+Open the Mu code editor and use it to edit the file code.py on the **CIRCUITPY** drive. Saving changes in the code here will immediately change the animations on the animations running on the CPX and LED string. Sample programs to run can be found in the [code](./code) directory in this repository, and your instructor will go over them with you. Note that on a CPX, memory restrictions limit the size of a progrm you can run to about 250 lines of code, so you will want to replace code files with new ones rather than copying them all over at once.
  
