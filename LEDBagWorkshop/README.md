@@ -38,16 +38,16 @@ Insert the 3xAA batteries and connect the battery pack using the JST connector, 
 - Place the 3D printed cover over the CPX, and secure in place with two screws as shown
 
 ### Step 4
+Cut a length of drawstring cord a bit longer than your LED string, and slide it over the LED string. Use the zip ties, or needle and thread, if you prefer, to attach it to the bag in a pattern that you like.
 
 
 ## Programming
 
-#### Programming Step 1
-Download and install the Mu code editor [here](https://codewith.mu/)
+### Step 1
+Download and install the Mu code editor [here](https://codewith.mu/) onto your laptop
+
 #### Programming Step 2
-Attach the CPX controller to your computer with a micro:USB cable
+<img src="images/drive.jpg" width="256">
+
+Attach the CPX controller to your computer with a micro:USB cable. It will show up as an external drive on your computer, usually named **CIRCUITPY**
  
-
-- 4mm wide shrink tube for crimp rings
-- Circuit Playground Express board (1 per participant)
-
