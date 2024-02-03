@@ -17,6 +17,7 @@ Each participant will use the following materials to create their own illuminate
 - More information about the Circuit Playground Express (CPX) controller used in this project can be found [here](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) 
 - The latest version of CircuitPython as of 2/3/24 has been installed on your Circuit Playground Express controllers, but you can find the very latest version and additional libraries at [https://circuitpython.org/](https://circuitpython.org/)
 - More information about [coding in CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/overview)
+- Short example programs that demonstrate how to use CircuitPython to access the sensors and outputs on the CPX can be found here: [https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground/blob/main/examples/](https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground/blob/main/examples/)
 
 ## Assembly
 ### Step 1
@@ -52,5 +53,7 @@ Download and install the Mu code editor [here](https://codewith.mu/) onto your l
 Attach the CPX controller to your computer with a micro:USB cable. It will show up as an external drive on your computer, usually named **CIRCUITPY** You can drag and drop files to this drive.
 
 ### Step 3
+<img src="images/mu.png" width="512">
+
 Open the Mu code editor and use it to edit the file code.py on the **CIRCUITPY** drive. Saving changes in the code here will immediately change the animations on the animations running on the CPX and LED string. Sample programs to run can be found in the [code](./code) directory in this repository, and your instructor will go over them with you. Note that on a CPX, memory restrictions limit the size of a progrm you can run to about 250 lines of code, so you will want to replace code files with new ones rather than copying them all over at once.
  
