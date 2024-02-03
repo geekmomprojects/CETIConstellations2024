@@ -47,10 +47,13 @@ def pixel_loop(pixels, color, delay = 0.2):
         time.sleep(delay)
         pixels[i] = BLACK
         pixels.show()
-        time.sleep(delay)
 
 # The infinite loop below prevents the program from exiting.
 # if we put code in here to change the pixel color values, we
 # can create an animation
 while True:
-    pass  ####TODO: put code here that will create a pixel animation
+    # Uncomment the lines below to show a simple animation of a pixel
+    # moving around the CPX and around the string
+    #pixel_loop(cp.pixels, GREEN)
+    #pixel_loop(string, BLUE)
+    pass

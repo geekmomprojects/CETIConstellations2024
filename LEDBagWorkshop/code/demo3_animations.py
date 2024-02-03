@@ -17,7 +17,7 @@ from math import floor
 
 # The circuit plaground express uses the NEOPIXEL pin to control the 10
 # LEDs on its front. We will attach a pixel pixel string of 20 addtional
-# addressable LEDs to pin A0
+# addressable LEDs to pin A1
 cp_pixel_pin        = board.NEOPIXEL
 string_pixel_pin    = board.A1
 
@@ -156,7 +156,7 @@ def blink_on(pixels, chance, color=None):
                 pixels[i] = color
     pixels.show()
 
-
+# Animation function that generates random colored twinkles
 twinkle_chance = 0.03
 random_color = False
 def twinkle_animation():
@@ -197,10 +197,10 @@ while True:
             cur_anim = anims[anim_index]
         stateA = cp.button_a
         
-    # TODO: Check for capacitive input touches
+    # TODO: Check for capacitive input touches and select a
+    # specific animation based on which pin was touched
 
     # Determine if we should draw the next animation frame
-    # then, if so, draw it
     now = time.monotonic()
     if now - last_animate_time > animate_delay:
         last_animate_time = now     # update the time of the most recent frame

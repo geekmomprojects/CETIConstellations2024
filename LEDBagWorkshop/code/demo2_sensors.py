@@ -1,10 +1,3 @@
-########################################################################################
-# CircuitPlayground Express LED Backpack Code
-# Constellations 2024 - Portland Winter Light Festival
-# CETI Institute
-#
-# Debra Ansell
-########################################################################################
 # The modules we import here provide extra functionality for the code
 import time
 import board
@@ -126,18 +119,20 @@ while True:
         else:
             print("Pin A2 released")
             
-    # Set the color of the LEDs based on the tilt angle of the CPX
+    # Uncomment the three lines of code below to set the color of the 
+    # LEDs based on the tilt angle of the CPX
     #col = color_from_acc()
     #set_leds(col)
     #time.sleep(0.05)
     
-    # Set the color of the LEDs based on the value of the light sensor
-    #print(cp.light)
-    #time.sleep(0.01)
+    # Uncomment the two lines of code below to set the color of the LEDs 
+    # based on the value of the light sensor
     #set_leds(wheel(cp.light))
     #time.sleep(0.05)
     
     # Detect shakes and taps. The "shake_threshold" keyword sets the 
-    # detection sensitivity to a value between 10 and 30
+    # detection sensitivity to a value between 10 and 30. Performing
+    # shake detection repeatedly in the while loop can slow down an
+    # animation
     #if cp.shake(shake_threshold=12):
     #    cp.red_led = not cp.red_led  # Toggle red LED
